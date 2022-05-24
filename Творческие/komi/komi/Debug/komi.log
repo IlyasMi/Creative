@@ -1,0 +1,5 @@
+﻿  komi.cpp
+c:\github\komi\komi\komi.cpp(198): warning C4101: result: неиспользованная локальная переменная
+c:\github\komi\komi\komi.cpp(201): warning C4101: a: неиспользованная локальная переменная
+c:\github\komi\komi\komi.cpp(202): warning C4101: b: неиспользованная локальная переменная
+  komi.vcxproj -> C:\Github\komi\Debug\komi.exe

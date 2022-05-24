@@ -1,0 +1,8 @@
+﻿  komi.cpp
+c:\github\komi\komi\komi.cpp(187): warning C4101: result: неиспользованная локальная переменная
+c:\github\komi\komi\komi.cpp(190): warning C4101: a: неиспользованная локальная переменная
+c:\github\komi\komi\komi.cpp(191): warning C4101: b: неиспользованная локальная переменная
+  Создание кода
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  komi.vcxproj -> C:\Github\komi\Release\komi.exe
