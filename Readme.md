@@ -3,4 +3,4 @@
 Инструмент - QT.
 Задача Коммивояжера:
 Инструмент - SFML. Ссылка на инструкцию по установке - https://proglib.io/p/pervyy-igrovoy-dvizhok-na-s-i-sfml-2019-11-19
-https://youtu.be/JPBo5mF94VE
+Ссылка на видео - https://youtu.be/JPBo5mF94VE
